@@ -1,2 +1,2 @@
 # Air-Pollution-Detector
-This is a device which w created so to meaasure the pollution level in a small area
+This is a device which we created so that pollutants can be measured at small level and measues can be taken at perfect time.
